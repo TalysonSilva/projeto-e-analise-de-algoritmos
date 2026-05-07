@@ -9,4 +9,4 @@ Este repositório contém as atividades práticas desenvolvidas em aula.
     * Aplicação de conceitos de Orientação a Objetos (Classe Produto).
 
 ---
-*Desenvolvido por [Seu Nome]*
+*Desenvolvido por Talyson Rodrigues*
